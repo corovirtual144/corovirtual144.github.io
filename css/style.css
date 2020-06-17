@@ -1,0 +1,63 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+    background-color: #FBF9F3;
+}
+
+.navbar-custom {
+    background-color: #003B5C;
+}
+
+.footer-custom {
+    background-color: #68635A;
+}
+
+#intro {
+    background: url("/img/choirBackgroung.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#quienes-somos {
+    background-color: #003B5C;
+    color: aliceblue;
+    font-family: Lato;
+    font-size: 1.15em;
+    height: 50%;
+
+}
+
+p.normal {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.15em;
+}
+
+blockquote.bg-gray {
+    
+    border: 1px solid #b3b3b3;
+    border-left: 10px solid #b3b3b3;
+    
+}
+
+blockquote.bg-primary {
+    background: #c97e69;
+    border: 1px solid #c97e69;
+    border-left: 10px solid #c97e69;
+    color: #ffffff;
+}
+
+blockquote.primary {
+    border: 1px solid #c97e69;
+    border-left: 10px solid #c97e69;
+}
+
+blockquote.right.primary {
+    border-color: #c97e69;
+    border-left: 1px solid #c97e69;
+    border-right: 10px solid #c97e69;
+}
+
